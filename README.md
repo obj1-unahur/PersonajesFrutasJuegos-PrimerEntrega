@@ -38,7 +38,7 @@ Tenemos tres deportes: el vóley, el futbol y el básquet.
 
 ### Futbol
 - Cuando este es jugado por una persona, a esta última se le resta cierta cantidad de su energía. La cantidad de energía que se le resta depende:
-    - Si la persona no tiene baja energia 10 Joules, sino la persona es 4 Joules.
+    - Si la persona no tiene baja energia 10 Joules, sino es 4 Joules.
 
 ### Básquet
 - La energía consumida en este deporte es siempre 3 Joules.
