@@ -38,8 +38,7 @@ Tenemos tres deportes: el vóley, el futbol y el básquet.
 
 ### Futbol
 - Cuando este es jugado por una persona, a esta última se le resta cierta cantidad de su energía. La cantidad de energía que se le resta depende:
-    - Si la persona es menor de edad, 10 Joules.
-    - Si la persona es mayor de edad, 4 Joules.
+    - Si la persona no tiene baja energia 10 Joules, sino la persona es 4 Joules.
 
 ### Básquet
 - La energía consumida en este deporte es siempre 3 Joules.
@@ -66,7 +65,6 @@ Tenemos tres deportes: el vóley, el futbol y el básquet.
     - Le gusta la manzana sí, es de color rojo.
     - Le gusta la mandarina si, es grande.
     - Le gusta la banana si, la persona no está feliz.
-    
 Tener en cuenta que si come la fruta, esta ya no debe ser recordada por la persona.
 
 - Es deportista si la cantidad de veces que jugo es un numero par.
@@ -77,12 +75,14 @@ Tener en cuenta que si come la fruta, esta ya no debe ser recordada por la perso
 - Se considera que su energía es baja, si tiene menos de 25.
 - Se considera que esta feliz, si la mitad de su energía es menor que su nivel de endorfina.
 - Se considera deportista si, está feliz y no tiene baja energía.
+- Hacer un metodo para comprar una fruta y que esta sea recordada. 
 
 ### Pepe
 - Inicia con una energía de 25, fuerza 0 y su peso en 80.
-- Hacer deporte, implica que su fuerza aumente 3 y su energía y peso disminuya 1. La energía consumida por el deporte es explicada en <a href="#Dep">deporte.</a> La energía y peso nunca puede ser un numero negativo. La máxima fuerza que puede adquirir es de 10 Newton. 
+- Hacer deporte, implica que su fuerza aumente 3 y su energía y peso disminuya 1. La energía y peso nunca puede ser un numero negativo. La máxima fuerza que puede adquirir es de 10 Newton. 
 - Se considera feliz si su peso en menor a 75 y su fuerza mayor a 5.
 - Siempre tiene baja energía.
+- Hacer un metodo para comprar una fruta y que esta sea recordada. 
 - Pepe siempre es deportista
 
 **Nombres sugeridos de métodos:** (ver para que objetos aplica)
